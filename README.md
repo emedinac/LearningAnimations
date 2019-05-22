@@ -6,5 +6,6 @@ Concepts involved are:
 - Vanishing strategy in signals
 
 Available video.
-<video src="simple_animation.mp4" width="320" height="240" controls preload></video>
+
+![Alt Text](https://github.com/emedinac/LearningAnimations/animation.gif)
 
