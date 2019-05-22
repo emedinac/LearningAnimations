@@ -7,5 +7,5 @@ Concepts involved are:
 
 Available video.
 
-![Alt Text](https://github.com/emedinac/LearningAnimations/animation.gif)
+![Alt Text](https://github.com/emedinac/LearningAnimations/blob/master/animation.gif)
 
