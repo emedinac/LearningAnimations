@@ -93,7 +93,6 @@ def update(frame, x, y):
     else:
         print("finished!!!!!!!!!!!!!!")
         lines.clear()
-        ani.event_source.stop()
     # print(frame)
     return lines
 
